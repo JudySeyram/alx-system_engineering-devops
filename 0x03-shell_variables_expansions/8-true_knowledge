@@ -1,0 +1,3 @@
+#!/bin/bash
+TRUEKNOWLEDGE=num | echo $((sum+28)) | printf
+
