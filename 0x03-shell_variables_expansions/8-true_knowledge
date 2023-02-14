@@ -1,3 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE=num | echo $((sum+28)) | printf
-
+echo $((128 + $	TRUEKNOWLEDG))
